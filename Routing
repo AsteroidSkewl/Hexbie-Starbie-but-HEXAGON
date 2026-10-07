@@ -1,0 +1,26 @@
+OLED:
+VCC -> 5V
+GND -> GND
+SCL -> A5
+SDA -> A4
+
+Sound Level:
+VCC -> 5V
+GND -> GND
+OUT -> A0
+
+Temperature:
+VCC -> 5V
+GND -> GND
+Data -> Digital Pin #2
+
+Air Quality:
+VCC -> 5V
+GND -> GND
+Data -> A1
+
+LEDs:
+Digital Pin #3 - Noise
+Digital Pin #4 - Temp
+Digital Pin #5 - Air
+(Need to travel through resistor!)
