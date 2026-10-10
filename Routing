@@ -12,7 +12,7 @@ OUT -> A0
 Temperature:
 VCC -> 5V
 GND -> GND
-Data -> Digital Pin #2
+Data -> A2
 
 Air Quality:
 VCC -> 5V
