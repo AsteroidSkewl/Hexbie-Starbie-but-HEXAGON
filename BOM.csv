@@ -1,0 +1,8 @@
+Part,What it's for,Qty,Cost ($) Including tax and shipping,Vendor
+Duinotech Arduino Compatible Smoke Detector Module,Sensing air quality,1,6.67,Jaycar
+Duinotech Arduino Compatible Temperature Sensor Module,Sensing the temperature,1,4.99,Jaycar
+Arduino Compatible Microphone Sound Sensor Module,Detecting sound,1,3.31,Jaycar
+Arduino Nano,Controlling the system,1,2.53,Aliexpress
+OLED Screen,Displaying info/moods,1,2.53,Aliexpress
+PCB,Containing the parts,1,8.91,JLCPCB
+Total,-,-,28.94,-
