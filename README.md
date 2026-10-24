@@ -6,7 +6,7 @@ And here are the code elements I was using for detection:
 ![BasicCodeElements](Images/CodeElements.png)
 I used EasyEDA to create my schematic and board, and then used JLCPCB to manufacture it. I had some issues during my first time drawing up my schematic which are higlighted in my journal entries. Below are the two versions of my schematic:
 The first version:
-![SchematicV1](Images/SchematicV1.png)
+![SchematicV1](Images/Schematic.png)
 And here is the second, updated version:
 ![SchematicV2](Images/SchematicV2.png)
 
