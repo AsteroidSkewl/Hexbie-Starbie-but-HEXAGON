@@ -1,5 +1,10 @@
 # Hexbie-Starbie-but-HEXAGON
 This is my first project for Hack Club's Half Life!
+Here's the finished product:
+
+![Finished Hexbie](Images/FinishedHEXBIE.png)
+
+Read more to learn more:
 The week's theme is PCB and I am making a hexagonal Starbie called Hexbie that will be my desk companion that monitors the air and environment, keeping it good for my health.
 When I originally planned to build the Hexbie, I drew up what I wanted it to look like in a notebook, and then found components and parts to suit my needs for the project.
 And here are the code elements I was using for detection:
