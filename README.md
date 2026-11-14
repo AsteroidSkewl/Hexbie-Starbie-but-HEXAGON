@@ -40,4 +40,7 @@ I had to take two screenshots of the code because it is too big.
 
 ![BottomHalfCode](Images/BottomHalfCode.png)
 
+This code may not work for you, it didn't for me. That could be for many reasons but I also converted the basic ideas into Arduino IDE and the .ino file for that is in the "Code" folder.
+
 You can find the BOM.csv file in this repo.
+
